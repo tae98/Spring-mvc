@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/response/rest")
 public class ResponseRestController {
+
     // [Response header]
     //   Content-Type: text/html
     // [Response body]
